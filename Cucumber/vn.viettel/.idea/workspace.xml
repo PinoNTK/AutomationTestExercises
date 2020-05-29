@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="452b2ffd-d6a5-49b5-b6ab-b983aadc7821" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cSOtR2xiDgggSWJjVZ1ngTkY9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/firstCucumber/stepDefinitions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="firstCucumber" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vn.viettel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstCucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="firstCucumber" />
+      <option name="MAIN_CLASS_NAME" value="firstCucumber.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452b2ffd-d6a5-49b5-b6ab-b983aadc7821" name="Default Changelist" comment="" />
+      <created>1590518742294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590518742294</updated>
+      <workItem from="1590518749688" duration="289000" />
+      <workItem from="1590768160814" duration="8190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="756" y="405" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590773816275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="405" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1590773816275" />
+    <state x="756" y="426" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590773692853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="426" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1590773692853" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1590775137601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590775137601" />
+    <state width="916" height="581" key="GridCell.Tab.0.bottom" timestamp="1590778658967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="581" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590778658967" />
+    <state width="916" height="581" key="GridCell.Tab.0.center" timestamp="1590778658967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="581" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590778658967" />
+    <state width="916" height="581" key="GridCell.Tab.0.left" timestamp="1590778658966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="581" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590778658966" />
+    <state width="916" height="581" key="GridCell.Tab.0.right" timestamp="1590778658967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="581" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590778658967" />
+    <state x="712" y="441" width="524" height="157" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590775138747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="441" width="524" height="157" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590775138747" />
+    <state x="1096" y="242" key="run.anything.popup" timestamp="1590778264881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590778264881" />
+  </component>
+</project>
