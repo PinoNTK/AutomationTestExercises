@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: first_serenity.features.search.LoginCucumberPage
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 26.613 s <<< FAILURE! - in first_serenity.features.search.LoginCucumberPage
+login_into_cucumber_page_should_show_the_project_page(first_serenity.features.search.LoginCucumberPage)  Time elapsed: 1.191 s  <<< ERROR!
+net.serenitybdd.screenplay.exceptions.ActorCannotBrowseTheWebException: The actor The actor Klaus does not have the ability to browse the web does not have the ability to browse the web
+	at first_serenity.features.search.LoginCucumberPage.login_into_cucumber_page_should_show_the_project_page(SearchByKeywordStory.java:62)
+

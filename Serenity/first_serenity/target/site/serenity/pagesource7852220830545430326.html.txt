@@ -1,0 +1,104 @@
+<html xmlns="http://www.w3.org/1999/html"><head>
+<title>CucumberStudio - Agile test management tool</title>
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+<meta charset="UTF-8">
+<link rel="stylesheet" media="all" href="https://d3ehkgeoosbnpo.cloudfront.net/assets/application-6aaa7a0dc9447c8e37e5cc1b87187432ecb2b37ca7cb57c14e045c2d71c16766.css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="N8DX77TT1vW7YccgIdgOeVjTxr0x0yKnBk3e2znqESWHAE2fQGHMYRP2d9UIxPVMz9kYeYiTuSSoqxiyUze7Eg==">
+<link rel="shortcut icon" type="image/x-icon" href="https://d3ehkgeoosbnpo.cloudfront.net/assets/favicon-e56c578a1f37405a41a2cbd6198c13e50fe565d32475357d95e2c762e796bf3e.png">
+<meta name="keywords" content="agile testing, ATDD, acceptance test, BDD, test design, accelerate test automation,
+  testing in continuous integration, test, scrum ">
+<meta name="description" content="Create maintainable acceptance tests in plain text, with unique refactoring capabilities,
+for your agile projects.">
+
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M77Q9DW"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-M77Q9DW');</script>
+
+</head>
+<body>
+<div class="ht-devise-page ">
+<header class="ht-devise-page__header">
+<a href="https://cucumber.io">
+<img src="https://d3ehkgeoosbnpo.cloudfront.net/assets/cucumber_studio_logo_white-1111c1274bb11f16db1e6db2206f3a3940a88974c085a8b8ea5e7bd2fdd15baa.svg">
+</a>
+</header>
+<div class="l-ht-devise-page__content">
+<div class="ht-devise-page__content">
+<header class="ht-devise-page__content__top-zone">
+<h1 class="landing-section-title">Welcome back!</h1>
+<div class="ht-devise-page__content__top-zone__wrapper">
+<div>
+<p>Don't have an account yet? <a tabindex="1" href="/users/sign_up">Sign up</a></p>
+</div>
+<a class="ht-btn--github" tabindex="2" href="/users/auth/github">
+<label>Sign in with GitHub</label>
+</a><a class="ht-btn--google" tabindex="3" href="/users/auth/google_oauth2">
+<label>Sign in with Google</label>
+</a>
+<div class="ht-striked-text">
+<span>OR</span>
+</div>
+</div>
+</header>
+<div class="ht-devise-page__content__central-zone">
+<form class="new_user" id="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="Wa4BNneF2tTJ5wLmiCxTdRoBNiCCKw+/wBqKBOULhT3pbptGgzfAQGFwshOhMKhAjQvo5DtrlDxu/Extj9YvCg==">
+<div class="ht-form-section">
+<label>Email</label>
+<input autofocus="autofocus" placeholder="Email" tabindex="4" type="email" value="" name="user[email]" id="user_email">
+</div>
+<div class="ht-form-section">
+<div>
+<label>Password</label>
+<a tabindex="7" id="reset-link" href="/users/password/new?email=babysnow96">Reset password</a>
+</div>
+<input placeholder="Password" autocomplete="current-password" tabindex="5" type="password" name="user[password]" id="user_password">
+<input type="submit" name="commit" value="Sign in" class="ht-btn--main-action" tabindex="6" data-disable-with="Sign in">
+</div>
+</form>
+</div>
+<div class="ht-devise-page__content__bottom-zone">
+<div class="ht-devise-page__content__terms">
+<a target="_blank" rel="noopener" href="https://smartbear.com/terms-of-use/">Terms of Service</a>
+<label>-</label>
+<a target="_blank" rel="noopener" href="https://smartbear.com/privacy/">Privacy policy</a>
+</div>
+</div>
+<script type="text/javascript">
+  var email = document.getElementById('user_email');
+  email.onchange = function() {
+    var link = document.getElementById('reset-link');
+    var url = link.getAttribute('href').split('?')[0];
+    link.setAttribute('href', url + '?email=' + this.value);
+  }
+</script>
+<script type="text/javascript">
+  window.addEventListener('storage', storageEventHandler, false);
+  function storageEventHandler(evt) {
+    if (evt.key === 'storage:logged-in') {
+      var isLoggedIn = window.localStorage.getItem('storage:logged-in');
+      if (isLoggedIn) {
+        var json = JSON.parse(window.localStorage.getItem('storage:logged-in'));
+        if (json.isLoggedIn === true) {
+          window.location.reload();
+        }
+      }
+    }
+  }
+</script>
+</div>
+</div>
+<footer class="ht-devise-page__footer">
+© 2020 CucumberStudio
+</footer>
+</div>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M77Q9DW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+</body></html>

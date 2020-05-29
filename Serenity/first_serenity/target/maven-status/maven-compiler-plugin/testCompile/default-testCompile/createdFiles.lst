@@ -1,0 +1,8 @@
+first_serenity\features\search\package-info.class
+first_serenity\ui\Tiki.class
+first_serenity\ui\CucumberStudioPage.class
+first_serenity\ui\GoogleSearchPage.class
+first_serenity\tasks\OpenTheApplication.class
+first_serenity\features\search\SearchByKeywordStory.class
+first_serenity\tasks\Search.class
+first_serenity\ui\SearchBox.class
